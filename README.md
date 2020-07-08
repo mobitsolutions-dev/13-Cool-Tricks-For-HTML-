@@ -4,13 +4,15 @@
 
 * First select Excel spreadsheet 
 
-<img  src="Captures/1.PNG"  heigth="200" width="200">
+<img  src="Captures/1.PNG"  heigth="300" width="300">
 
 * And past in this site and then see the result:
-<img  src="Captures/2.PNG"  heigth="200" width="200">
+<img  src="Captures/2.PNG"  heigth="300" width="300">
  https://tableizer.journalistopia.com/
 
 <h2>Trick # 2 : COLOR PICKER</h2>
+
+<img  src="Captures/3.PNG"  heigth="300" width="300">
 
 ```
   <h3 id="Myelement" onclick="changeColor()">Color Picker</h3>
