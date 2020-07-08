@@ -184,7 +184,18 @@ Add legal rights, citations, restrictions, terms and other fine print at the bot
 ```
 
 <h2>Trick # 9 :  ADD MP3 PLAYER </h2>
-
+```
+<input type="file" accept="audio/*" capture id="recorder">
+<audio id=" player" controls></audio>
+<script>
+    const recorder =document.getElementByid('recorder');
+  const player =document.getElementByid('player');
+recrder.addEventListener('change',function(e) {
+         const file = e.target.files[0];
+          const url = URL.createObjectURL(file);
+           player.src = url; });
+</script>
+```
 
 <h2>Trick # 10: Allow visitors to change background or text color</h2>
 
