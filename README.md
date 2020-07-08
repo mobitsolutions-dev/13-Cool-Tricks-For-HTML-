@@ -39,7 +39,7 @@ MetaData tags are used in HTML documents to provide structured metedata about a 
 
 A horizontal line to break up long sections of your website will make the page easier on the eye. To add the line, use the ```<hr/> tag```, as in:
 
-<img  src="Captures/5.PNG"  heigth="200" width="200">
+<img  src="Captures/5.PNG"  heigth="500" width="500">
 
 ```
 <h1>HTML</h1>
@@ -54,6 +54,9 @@ A horizontal line to break up long sections of your website will make the page e
 <h2>Trick # 5 : HIGHLIGHT TEXT</h2> 
 
 The ```<span> tag``` will let you add highlights to text on both Firefox and IE. You can choose the color of the highlight, of course. The code is simple:
+
+<img  src="Captures/6.PNG"  heigth="700" width="700">
+
 ```
 <span style=“ background-color: #FFFF00”>Your text here.</span>
 ```
@@ -62,6 +65,9 @@ The ```<span> tag``` will let you add highlights to text on both Firefox and IE.
            
 You can add a background image instead of a highlight to your text if the font is large enough.
 The code is:
+
+<img  src="Captures/7.PNG"  heigth="300" width="300">
+
 ```
 <SPAN STYLE=”background-image: url(//www.myimage.png ); font-size: 20pt”>NoBoringHighlight…</SPAN>
 ```
