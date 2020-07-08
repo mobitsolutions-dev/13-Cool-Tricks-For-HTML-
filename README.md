@@ -8,11 +8,10 @@
        https://tableizer.journalistopia.com/
 
 <h1>Trick # 2 : COLOR PICKER</h1>
- ``` 
+```
   <h3 id="Myelement" onclick="changeColor()">Color Picker</h3>
     
     <input name="MyColorPicker" type="color" id="ColorPicker1">
-
 <script>
    function changeColor() {
            document.getElementByld("Myelement").style.color=document.getElementByld("ColorPicker1").value;
@@ -23,6 +22,7 @@
 <h1>Trick # 3 :   METADATA</h1>
 
 MetaData tags are used in HTML documents to provide structured metedata about a web page
+
 ```
 <meta name=”description” content=”Used auto parts for sale”>
 
