@@ -1,13 +1,14 @@
 # 13 Cool Tricks For HTML
 
-<h1>Trick # 1 : TABLEIZER</h1>
+<h2>Trick # 1 : TABLEIZER</h2>
 
 * First select Excel spreadsheet 
 * And past in this site and then see the result:
        
-       https://tableizer.journalistopia.com/
+ https://tableizer.journalistopia.com/
 
 <h1>Trick # 2 : COLOR PICKER</h1>
+
 ```
   <h3 id="Myelement" onclick="changeColor()">Color Picker</h3>
     
@@ -19,7 +20,7 @@
 </script>
 ```
 
-<h1>Trick # 3 :   METADATA</h1>
+<h1>Trick # 3 : MetaData</h1>
 
 MetaData tags are used in HTML documents to provide structured metedata about a web page
 
@@ -173,16 +174,17 @@ h3::before {
 <h1>Trick # 8 :  FINE PRINT</h1>
 
 Add legal rights, citations, restrictions, terms and other fine print at the bottom of your document with the ```<small> tag```.
+
 ```
 <h1>Black Friday Sale!!! Upto 70% off on all products under <i>Toys &amp; Recreation</i><sup>*</sup></h1>
 
 <p><small>* Terms and Conditions apply</small></p>
 ```
 
-<h1>Trick # 9 :  ADD MP3 PLAYER </h1>
+<h2>Trick # 9 :  ADD MP3 PLAYER </h2>
 
 
-<h1>Trick # 10: Allow visitors to change background or text color</h1>
+<h2>Trick # 10: Allow visitors to change background or text color</h2>
 
 Here's the code you will need:
 ```
@@ -213,7 +215,7 @@ Here's the code you will need:
 </select>&nbsp;&nbsp;Text Color
 ```
 
-<h1>Trick # 11 : INPUT SUGGESTIONS</h1>
+<h2>Trick # 11 : INPUT SUGGESTIONS</h2>
  
 Type your favourite text editor:
 ```
@@ -228,7 +230,7 @@ Type your favourite text editor:
    </em> Sublime Text</p>
 ```
 
-<h1>Trick # 1 : HIDE FIELD</h1>
+<h2>Trick # 12 : HIDE FIELD</h2>
 
 
 Here's how it works:
@@ -250,7 +252,7 @@ Here's how it works:
     </form>
 ```
 
-<h1>Trick # 13 : Insert math equations</h1>
+<h2>Trick # 13 : Insert math equations</h2>
 
 This code will insert a fraction 'a/b' to your page:
 ```
