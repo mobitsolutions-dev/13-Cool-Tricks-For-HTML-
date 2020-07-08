@@ -9,7 +9,9 @@
  https://tableizer.journalistopia.com/
 
 <h2>Trick # 2 : COLOR PICKER</h2>
+
 <img  src="Captures/3.PNG"  heigth="200" width="200">
+
 ```
   <h3 id="Myelement" onclick="changeColor()">Color Picker</h3>
     
@@ -28,7 +30,8 @@ MetaData tags are used in HTML documents to provide structured metedata about a 
 ```
 <meta name=”description” content=”Used auto parts for sale”>
 
-<meta name=”keywords” content=”fuel filters, brake discs, belts” />
+<meta name=”keywords” content=”fuel filters, brake discs, belts”/>
+
 ```
 
 <h2>Trick # 4 : HORIZONTAL LINE</h2>
@@ -36,7 +39,7 @@ MetaData tags are used in HTML documents to provide structured metedata about a 
 A horizontal line to break up long sections of your website will make the page easier on the eye. To add the line, use the ```<hr/> tag```, as in:
 
 ```
-  <h1>HTML</h1>
+<h1>HTML</h1>
 <p>HMTL is a language for describing web pages...</p>
 
 <hr/>
