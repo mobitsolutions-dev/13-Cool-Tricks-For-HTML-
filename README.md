@@ -3,17 +3,13 @@
 <h2>Trick # 1 : TABLEIZER</h2>
 
 * First select Excel spreadsheet 
-
-<img  src="Captures/1.PNG"  heigth="300" width="300">
-
-* And past in this site and then see the result:
+<img  src="Captures/1.PNG"  heigth="200" width="200">
+* And past in this site, then see the result:
 <img  src="Captures/2.PNG"  heigth="300" width="300">
  https://tableizer.journalistopia.com/
 
 <h2>Trick # 2 : COLOR PICKER</h2>
-
-<img  src="Captures/3.PNG"  heigth="300" width="300">
-
+<img  src="Captures/3.PNG"  heigth="200" width="200">
 ```
   <h3 id="Myelement" onclick="changeColor()">Color Picker</h3>
     
@@ -28,6 +24,8 @@
 <h2>Trick # 3 : MetaData</h2>
 
 MetaData tags are used in HTML documents to provide structured metedata about a web page
+<img  src="Captures/4.PNG"  heigth="200" width="200">
+
 
 ```
 <meta name=”description” content=”Used auto parts for sale”>
