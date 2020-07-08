@@ -1,0 +1,415 @@
+<!--         ============================================================================================================  -->
+  https://www.mobitsolutions.com
+<!--         ============================================================================================================  -->
+
+Trick 1: (Tableizer)
+
+<style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+</style>
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th>OrderDate</th><th>Region</th><th>Rep</th><th>Item</th><th>Units</th><th>UnitCost</th><th>Total</th></tr></thead><tbody>
+ <tr><td>1/6/2018</td><td>East</td><td>Jones</td><td>Pencil</td><td>95</td><td>1.99</td><td>189.05</td></tr>
+ <tr><td>1/23/2018</td><td>Central</td><td>Kivell</td><td>Binder</td><td>50</td><td>19.99</td><td>999.5</td></tr>
+ <tr><td>2/9/2018</td><td>Central</td><td>Jardine</td><td>Pencil</td><td>36</td><td>4.99</td><td>179.64</td></tr>
+ <tr><td>2/26/2018</td><td>Central</td><td>Gill</td><td>Pen</td><td>27</td><td>19.99</td><td>539.73</td></tr>
+ <tr><td>3/15/2018</td><td>West</td><td>Sorvino</td><td>Pencil</td><td>56</td><td>2.99</td><td>167.44</td></tr>
+ <tr><td>4/1/2018</td><td>East</td><td>Jones</td><td>Binder</td><td>60</td><td>4.99</td><td>299.4</td></tr>
+ <tr><td>4/18/2018</td><td>Central</td><td>Andrews</td><td>Pencil</td><td>75</td><td>1.99</td><td>149.25</td></tr>
+ <tr><td>5/5/2018</td><td>Central</td><td>Jardine</td><td>Pencil</td><td>90</td><td>4.99</td><td>449.1</td></tr>
+ <tr><td>5/22/2018</td><td>West</td><td>Thompson</td><td>Pencil</td><td>32</td><td>1.99</td><td>63.68</td></tr>
+ <tr><td>6/8/2018</td><td>East</td><td>Jones</td><td>Binder</td><td>60</td><td>8.99</td><td>539.4</td></tr>
+ <tr><td>6/25/2018</td><td>Central</td><td>Morgan</td><td>Pencil</td><td>90</td><td>4.99</td><td>449.1</td></tr>
+ <tr><td>7/12/2018</td><td>East</td><td>Howard</td><td>Binder</td><td>29</td><td>1.99</td><td>57.71</td></tr>
+ <tr><td>7/29/2018</td><td>East</td><td>Parent</td><td>Binder</td><td>81</td><td>19.99</td><td>1,619.19</td></tr>
+ <tr><td>8/15/2018</td><td>East</td><td>Jones</td><td>Pencil</td><td>35</td><td>4.99</td><td>174.65</td></tr>
+ <tr><td>9/1/2018</td><td>Central</td><td>Smith</td><td>Desk</td><td>2</td><td>125</td><td>250</td></tr>
+ <tr><td>9/18/2018</td><td>East</td><td>Jones</td><td>Pen Set</td><td>16</td><td>15.99</td><td>255.84</td></tr>
+ <tr><td>10/5/2018</td><td>Central</td><td>Morgan</td><td>Binder</td><td>28</td><td>8.99</td><td>251.72</td></tr>
+</tbody></table>
+
+                                       <!--         ============================================================================================================  -->
+
+Trick 2: (Color Picker)
+
+<html> 
+
+<head> 
+</head> 
+
+<body> 
+	<h1 id="Myelement"
+	onclick="changeColor()"> 
+		Color Picker
+	</h1> 
+	<input name="MyColorPicker"
+		type="color"
+		id="ColorPicker1" /> 
+	<script> 
+		function changeColor() { 
+			document.getElementById("Myelement").style.color = 
+				document.getElementById("ColorPicker1").value; 
+		} 
+	</script> 
+</body> 
+
+</html> 
+
+                                      <!--         ============================================================================================================  -->
+
+Trick 3: [MetaData]
+
+<DOCTYPE html>
+<html>
+<head>
+<title> Meta Data </title>
+</head>
+<body>
+<meta name=”description” content=”Used auto parts for sale”>
+
+<meta name=”keywords” content=”fuel filters, brake discs, belts” />
+</body>
+</html>
+
+                                  <!--         ============================================================================================================  -->
+
+Trick 4:[Horizontal line]
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Add a horizontal line</title>
+
+</head>
+<body>
+
+<h1>HTML</h1>
+
+<p>HTML is a language for describing web pages.....</p>
+
+<hr>
+
+<h1>CSS</h1>
+
+<p>CSS defines how to display HTML elements.....</p>
+</body>
+</html>
+
+                                           <!--         ============================================================================================================  -->
+
+Trick 5: [Hightlight Text]
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Highlight text</title>
+
+</head>
+<body>
+
+<span style="background-color: #FFFF00">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+It has survived not only five centuries, but also the leap into electronic typesetting, 
+remaining essentially unchanged.</span>
+
+</body>
+</html>
+
+                                            <!--         ============================================================================================================  -->
+
+Trick 6: [Add Background Image to text]
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Add background image to text</title>
+</head>
+<body>
+
+<span style="background-image:url('7.jpg');  font-size: 20pt; color:black">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+
+</body>
+</html>
+
+                                               <!--         ============================================================================================================  -->
+
+Trick 7: [Map Image]
+
+<!DOCTYPE html>
+<html>
+<title>Map images</title>
+<head>
+<style>
+body {
+    font-family: "bookman old style";
+}
+:target {
+    color: lightyellow;
+    background: indianred;
+}
+h3,
+h1 {
+    color: indianred;
+}
+img {
+    border: 3px dashed indianred;
+}
+body {
+    counter-reset: srl;
+}
+h3::before {
+    counter-increment: srl;
+    content: counter(srl)". ";
+}
+</style>
+</head>
+<body>
+<h1 style="text-align:center;">The 7 Continents</h1>
+<h4 style="text-align:center;">&#10148; Click on the dots in the image to go to a continent section</h4>
+<map name="continents_map">
+ <area shape="circle" coords="70,70,10" href="#north_america">
+ <area shape="circle" coords="133,185,10" href="#south_america">
+ <area shape="circle" coords="270,137,10" href="#africa">
+ <area shape="circle" coords="292,44,10" href="#europe">
+ <area shape="circle" coords="469,201,10" href="#australia">
+ <area shape="circle" coords="374,65,10" href="#asia">
+ <area shape="circle" coords="340,267,10" href="#antartica">
+</map>
+<figure style="text-align:center;">
+    <img usemap="#continents_map" src=https://bit.ly/2bgFrvL width="600px" />
+    <figcaption>World Map</figcaption>
+</figure>
+<div>
+    <h3 id="africa">Africa</h3>
+    <p>Our locations in Africa</p>
+</div>
+<div>
+    <h3 id="asia">Asia</h3>
+    <p>Our locations in Asia</p>
+</div>
+<div>
+    <h3 id="europe">Europe</h3>
+    <p>Our locations in Europe.</p>
+</div>
+<div>
+    <h3 id="south_america">South America</h3>
+    <p>Our locations in South America.</p>
+</div>
+<div>
+    <h3 id="north_america">North America</h3>
+    <p>Our locations in North America:</p>
+</div>
+<div>
+    <h3 id="antartica">Antarctica</h3>
+    <p>Our locations in Antarctica.</p>
+</div>
+<div>
+    <h3 id="australia">Australia</h3>
+    <p>Our locations in Australia.</p>
+</div>
+</body>
+</html>
+
+                                             <!--         ============================================================================================================  -->
+
+Trick 8: [Fine Print]
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Add fine print</title>
+</head>
+<body>
+<h1>Black Friday Sale!!! Upto 70% off on all products under <i>Toys &amp; Recreation</i><sup>*</sup></h1>
+
+<p><small>* Terms and Conditions apply</small></p>
+</body>
+</html>
+
+                                         <!--         ============================================================================================================  -->
+
+Trick 9: [Add mp3 Player]
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Add Mp3 Player</title>
+</head>
+<body>
+<input type="file" accept="audio/*" capture id="recorder">
+<audio id="player" controls></audio>
+<script>
+  const recorder = document.getElementById('recorder');
+  const player = document.getElementById('player');
+
+  recorder.addEventListener('change', function(e) {
+    const file = e.target.files[0];
+    const url = URL.createObjectURL(file);
+    // Do something with the audio file.
+    player.src = url;
+  });
+</script>
+</body>
+</html>
+
+                                                <!--         ============================================================================================================  -->
+
+Trick 10: [Allow Vistors to change background or text color]
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Allow visitors to change background or text color</title>
+</head>
+<body>
+<p style="font-size:30px;"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
+The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, 
+content here', making it look like readable English. Many desktop publishing packages and web page editors now use 
+Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. 
+Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+</p>
+
+<select name="clr" onchange="document.bgColor=this.options[this.selectedIndex].value" size="1">
+
+    <br>
+    <option value="black">black</option>
+        <option value="orange">orange</option>
+            <option value="flamingred">fuschia</option>
+                <option value="lightyellow">light yellow</option>
+                    <option value="green">green</option>
+                        <option value="cyan">cyan</option>
+                            <option value="yellow">yellow</option>
+                                <option value="red">red</option>
+                                    <option value="white">white</option>
+</select>&nbsp;&nbsp;Background Color
+
+<br>
+<select name="clr" onchange="document.fgColor=this.options[this.selectedIndex].value" size="1">
+    <br>
+    <option value="black">black</option>
+        <option value="orange">orange</option>
+            <option value="flamingred">fuschia</option>
+                <option value="lightyellow">light yellow</option>
+                    <option value="cyan">cyan</option>
+                        <option value="yellow">yellow</option>
+                            <option value="red">red</option>
+                                <option value="white">white</option>
+</select>&nbsp;&nbsp;Text Color
+
+
+</body>
+</html>
+
+                                                 <!--         ============================================================================================================  -->
+
+
+Trick 11: [Input Suggestions]
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Input suggestions</title>
+
+</head>
+<body>
+<input type="text" list="text_editors">
+<datalist id="text_editors">
+    <option value="Atom"></option>
+    <option value="Notepad ++"></option>
+    <option value="Sublime Text"></option>
+    <option value="Wordpad"></option>
+</datalist>
+<p><em>For example;
+   </em> Sublime Text</p>
+   
+  </body>
+  </html>
+
+                                           <!--         ============================================================================================================  -->
+
+Trick 12: [Hide Field]
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Hide Field</title>
+</head>
+<body>
+    <form name="contact" method="POST">
+        <div align="center">
+            <input type="text" size="25" value="Enter your name here!">
+            <input type="hidden" name="Language" value="English">
+            <br><br>
+        </div>
+    </form>
+</body>
+</html>
+
+
+
+                                            <!--         ============================================================================================================  -->
+
+Trick 13: [Insert Math Equations]
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Insert math equations</title>
+</head>
+<body>
+ <math>
+   <mfrac>
+    <mi>E = mc² or ?/?t + v</mi>
+   </mfrac>
+ </math>
+</body>
+</html>
+
+                                   <!--         ============================================================================================================  -->
+                                                                                     Thanks for Watching this Video 
+                                                                                     Like and Subscribe the Channel.
+
