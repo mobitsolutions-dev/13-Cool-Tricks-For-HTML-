@@ -177,7 +177,6 @@ h3::before {
 Add legal rights, citations, restrictions, terms and other fine print at the bottom of your document with the ```<small> tag```.
 
 ```
-
 <h4>Black Friday Sale!!! Upto 70% off on all products under <i>Toys &amp; Recreation</i><sup>*</sup></h4>
 <p><small>* Terms and Conditions apply</small></p>
 
@@ -195,6 +194,7 @@ recrder.addEventListener('change',function(e) {
           const url = URL.createObjectURL(file);
            player.src = url; });
 </script>
+
 ```
 
 <h2>Trick # 10: Allow visitors to change background or text color</h2>
