@@ -4,6 +4,7 @@
 
 * First select Excel spreadsheet 
 <img  src="Captures/1.PNG"  heigth="200" width="200">
+
 * And past in this site, then see the result:
 <img  src="Captures/2.PNG"  heigth="300" width="300">
  https://tableizer.journalistopia.com/
