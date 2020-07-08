@@ -4,7 +4,7 @@
 
 * First select Excel spreadsheet 
 
-<img src="Captures/1.png" >
+<img  src="Captures/1.PNG"  heigth="200" width="200">
 
 * And past in this site and then see the result:
        
