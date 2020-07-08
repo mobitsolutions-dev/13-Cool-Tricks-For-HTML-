@@ -59,7 +59,8 @@ The code is:
 <SPAN STYLE=”background-image: url(//www.myimage.png ); font-size: 20pt”>NoBoringHighlight…</SPAN>
 ```
 
-<h1>Trick # 7 : MAP IMAGES</h1>
+<h2>Trick # 7 : MAP IMAGES</h2>
+
 ```
 <h3 style="text-align:center;">The 7 Continents</h3>
 
@@ -176,9 +177,10 @@ h3::before {
 Add legal rights, citations, restrictions, terms and other fine print at the bottom of your document with the ```<small> tag```.
 
 ```
-<h1>Black Friday Sale!!! Upto 70% off on all products under <i>Toys &amp; Recreation</i><sup>*</sup></h1>
 
+<h4>Black Friday Sale!!! Upto 70% off on all products under <i>Toys &amp; Recreation</i><sup>*</sup></h4>
 <p><small>* Terms and Conditions apply</small></p>
+
 ```
 
 <h2>Trick # 9 :  ADD MP3 PLAYER </h2>
