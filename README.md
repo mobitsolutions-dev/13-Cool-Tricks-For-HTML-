@@ -3,15 +3,15 @@
 <h2>Trick # 1 : TABLEIZER</h2>
 
 * First select Excel spreadsheet 
-<img  src="Captures/1.PNG"  heigth="200" width="200">
+<img  src="Captures/1.PNG"  width="100%">
 
 * And past in this site, then see the result:
-<img  src="Captures/2.PNG"  heigth="400" width="400">
+<img  src="Captures/2.PNG"  width="100%">
  https://tableizer.journalistopia.com/
 
 <h2>Trick # 2 : COLOR PICKER</h2>
 
-<img  src="Captures/3.PNG"  heigth="200" width="200">
+<img  src="Captures/3.PNG"  width="100%">
 
 ```
   <h3 id="Myelement" onclick="changeColor()">Color Picker</h3>
@@ -39,7 +39,7 @@ MetaData tags are used in HTML documents to provide structured metedata about a 
 
 A horizontal line to break up long sections of your website will make the page easier on the eye. To add the line, use the ```<hr/> tag```, as in:
 
-<img  src="Captures/5.PNG"  heigth="500" width="500">
+<img  src="Captures/5.PNG"  width="100%">
 
 ```
 <h1>HTML</h1>
@@ -55,7 +55,7 @@ A horizontal line to break up long sections of your website will make the page e
 
 The ```<span> tag``` will let you add highlights to text on both Firefox and IE. You can choose the color of the highlight, of course. The code is simple:
 
-<img  src="Captures/6.PNG"  heigth="700" width="700">
+<img  src="Captures/6.PNG"  width="100%">
 
 ```
 <span style=“ background-color: #FFFF00”>Your text here.</span>
@@ -66,7 +66,7 @@ The ```<span> tag``` will let you add highlights to text on both Firefox and IE.
 You can add a background image instead of a highlight to your text if the font is large enough.
 The code is:
 
-<img  src="Captures/7.PNG"  heigth="600" width="600">
+<img  src="Captures/7.PNG"  width="100%">
 
 ```
 <SPAN STYLE=”background-image: url(//www.myimage.png ); font-size: 20pt”>NoBoringHighlight…</SPAN>
@@ -74,7 +74,7 @@ The code is:
 
 <h2>Trick # 7 : Map images</h2>
 
-<img  src="Captures/8.PNG"  heigth="600" width="600">
+<img  src="Captures/8.PNG"  width="100%">
 
 
 ```
@@ -192,7 +192,7 @@ h3::before {
 
 Add legal rights, citations, restrictions, terms and other fine print at the bottom of your document with the ```<small> tag```.
 
-<img  src="Captures/9.PNG"  heigth="700" width="700">
+<img  src="Captures/9.PNG"  width="100%">
 
 
 ```
@@ -203,7 +203,7 @@ Add legal rights, citations, restrictions, terms and other fine print at the bot
 
 <h2>Trick # 9 :  ADD MP3 PLAYER </h2>
 
-<img  src="Captures/10.PNG"  heigth="500" width="500">
+<img  src="Captures/10.PNG"  width="100%">
 
 ```
 <input type="file" accept="audio/*" capture id="recorder">
@@ -220,9 +220,9 @@ recrder.addEventListener('change',function(e) {
 
 <h2>Trick # 10: Allow visitors to change background or text color</h2>
 
-<img  src="Captures/11.PNG"  heigth="700" width="700">
+<img  src="Captures/11.PNG"  width="100%">
 
-<img  src="Captures/12.PNG"  heigth="700" width="700">
+<img  src="Captures/12.PNG"  width="100%">
 
 Here's the code you will need:
 ```
@@ -255,8 +255,8 @@ Here's the code you will need:
 
 <h2>Trick # 11 : INPUT SUGGESTIONS</h2>
  
- <img  src="Captures/13.PNG"  heigth="200" width="200">
-  <img  src="Captures/14.PNG"  heigth="200" width="200">
+ <img  src="Captures/13.PNG"  width="100%">
+  <img  src="Captures/14.PNG"  width="100%">
  
 Type your favourite text editor:
 ```
@@ -273,7 +273,7 @@ Type your favourite text editor:
 
 <h2>Trick # 12 : HIDE FIELD</h2>
 
-  <img  src="Captures/15.PNG"  heigth="300" width="300">
+  <img  src="Captures/15.PNG"  width="100%">
 
 Here's how it works:
 
@@ -295,7 +295,7 @@ Here's how it works:
 
 <h2>Trick # 13 : Insert math equations</h2>
 
-  <img  src="Captures/16.PNG"  heigth="400" width="400">
+  <img  src="Captures/16.PNG"  width="100%">
 
 This code will insert a fraction 'a/b' to your page:
 ```
@@ -311,3 +311,15 @@ This code will insert a fraction 'a/b' to your page:
 
 </math>
 ```
+
+<h2>For more useful articles or blogs visit our website:</h2>
+
+https://www.mobitsolutions.com/blog
+
+<h2>About Us:</h2>
+e commerce website development company | ecommerce development company uk | e commerce service provider
+
+https://www.mobitsolutions.com/ecommerce-website-development/
+
+<h2>Video Tutorial:</h2>
+https://youtu.be/hVT6RDNMfpk
