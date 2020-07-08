@@ -6,7 +6,7 @@
 <img  src="Captures/1.PNG"  heigth="200" width="200">
 
 * And past in this site, then see the result:
-<img  src="Captures/2.PNG"  heigth="300" width="300">
+<img  src="Captures/2.PNG"  heigth="400" width="400">
  https://tableizer.journalistopia.com/
 
 <h2>Trick # 2 : COLOR PICKER</h2>
@@ -38,6 +38,8 @@ MetaData tags are used in HTML documents to provide structured metedata about a 
 <h2>Trick # 4 : HORIZONTAL LINE</h2>
 
 A horizontal line to break up long sections of your website will make the page easier on the eye. To add the line, use the ```<hr/> tag```, as in:
+
+<img  src="Captures/5.PNG"  heigth="200" width="200">
 
 ```
 <h1>HTML</h1>
