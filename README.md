@@ -24,8 +24,6 @@
 <h2>Trick # 3 : MetaData</h2>
 
 MetaData tags are used in HTML documents to provide structured metedata about a web page
-<img  src="Captures/4.PNG"  heigth="200" width="200">
-
 
 ```
 <meta name=”description” content=”Used auto parts for sale”>
