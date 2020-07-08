@@ -219,9 +219,9 @@ recrder.addEventListener('change',function(e) {
 ```
 
 <h2>Trick # 10: Allow visitors to change background or text color</h2>
-1
+
 <img  src="Captures/11.PNG"  heigth="700" width="700">
-2
+
 <img  src="Captures/12.PNG"  heigth="700" width="700">
 
 Here's the code you will need:
