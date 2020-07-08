@@ -7,7 +7,7 @@
 <img  src="Captures/1.PNG"  heigth="200" width="200">
 
 * And past in this site and then see the result:
-       
+<img  src="Captures/2.PNG"  heigth="200" width="200">
  https://tableizer.journalistopia.com/
 
 <h2>Trick # 2 : COLOR PICKER</h2>
