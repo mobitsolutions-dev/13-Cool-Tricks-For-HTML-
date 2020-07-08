@@ -7,7 +7,7 @@
        
  https://tableizer.journalistopia.com/
 
-<h1>Trick # 2 : COLOR PICKER</h1>
+<h2>Trick # 2 : COLOR PICKER</h2>
 
 ```
   <h3 id="Myelement" onclick="changeColor()">Color Picker</h3>
@@ -20,7 +20,7 @@
 </script>
 ```
 
-<h1>Trick # 3 : MetaData</h1>
+<h2>Trick # 3 : MetaData</h2>
 
 MetaData tags are used in HTML documents to provide structured metedata about a web page
 
@@ -30,9 +30,9 @@ MetaData tags are used in HTML documents to provide structured metedata about a 
 <meta name=”keywords” content=”fuel filters, brake discs, belts” />
 ```
 
-<h1>Trick # 4 : HORIZONTAL LINE</h1>
+<h2>Trick # 4 : HORIZONTAL LINE</h2>
 
-A horizontal line to break up long sections of your website will make the page easier on the eye. To add the line, use the <hr/> tag, as in:
+A horizontal line to break up long sections of your website will make the page easier on the eye. To add the line, use the ```<hr/> tag```, as in:
 
 ```
   <h1>HTML</h1>
@@ -44,14 +44,14 @@ A horizontal line to break up long sections of your website will make the page e
 <p> CSS define how to display HTML elements...</p>
 ```
 
-<h1>Trick # 5 : HIGHLIGHT TEXT</h1> 
+<h2>Trick # 5 : HIGHLIGHT TEXT</h2> 
 
 The ```<span> tag``` will let you add highlights to text on both Firefox and IE. You can choose the color of the highlight, of course. The code is simple:
 ```
 <span style=“ background-color: #FFFF00”>Your text here.</span>
 ```
 
-<h1>Trick # 6 :ADD BACKGROUND IMAGE TO TEXT</h1>
+<h2>Trick # 6 :Add background image to text</h2>
            
 You can add a background image instead of a highlight to your text if the font is large enough.
 The code is:
@@ -59,7 +59,7 @@ The code is:
 <SPAN STYLE=”background-image: url(//www.myimage.png ); font-size: 20pt”>NoBoringHighlight…</SPAN>
 ```
 
-<h2>Trick # 7 : MAP IMAGES</h2>
+<h2>Trick # 7 : Map images</h2>
 
 ```
 <h3 style="text-align:center;">The 7 Continents</h3>
@@ -172,7 +172,7 @@ h3::before {
 }
 ```
 
-<h1>Trick # 8 :  FINE PRINT</h1>
+<h2>Trick # 8 :  FINE PRINT</h2>
 
 Add legal rights, citations, restrictions, terms and other fine print at the bottom of your document with the ```<small> tag```.
 
