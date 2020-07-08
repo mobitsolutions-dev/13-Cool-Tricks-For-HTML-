@@ -66,13 +66,16 @@ The ```<span> tag``` will let you add highlights to text on both Firefox and IE.
 You can add a background image instead of a highlight to your text if the font is large enough.
 The code is:
 
-<img  src="Captures/7.PNG"  heigth="300" width="300">
+<img  src="Captures/7.PNG"  heigth="600" width="600">
 
 ```
 <SPAN STYLE=”background-image: url(//www.myimage.png ); font-size: 20pt”>NoBoringHighlight…</SPAN>
 ```
 
 <h2>Trick # 7 : Map images</h2>
+
+<img  src="Captures/8.PNG"  heigth="600" width="600">
+
 
 ```
 <h3 style="text-align:center;">The 7 Continents</h3>
@@ -189,6 +192,9 @@ h3::before {
 
 Add legal rights, citations, restrictions, terms and other fine print at the bottom of your document with the ```<small> tag```.
 
+<img  src="Captures/9.PNG"  heigth="700" width="700">
+
+
 ```
 <h4>Black Friday Sale!!! Upto 70% off on all products under <i>Toys &amp; Recreation</i><sup>*</sup></h4>
 <p><small>* Terms and Conditions apply</small></p>
@@ -196,6 +202,8 @@ Add legal rights, citations, restrictions, terms and other fine print at the bot
 ```
 
 <h2>Trick # 9 :  ADD MP3 PLAYER </h2>
+
+<img  src="Captures/10.PNG"  heigth="500" width="500">
 
 ```
 <input type="file" accept="audio/*" capture id="recorder">
@@ -211,6 +219,10 @@ recrder.addEventListener('change',function(e) {
 ```
 
 <h2>Trick # 10: Allow visitors to change background or text color</h2>
+1
+<img  src="Captures/11.PNG"  heigth="700" width="700">
+2
+<img  src="Captures/12.PNG"  heigth="700" width="700">
 
 Here's the code you will need:
 ```
@@ -243,6 +255,9 @@ Here's the code you will need:
 
 <h2>Trick # 11 : INPUT SUGGESTIONS</h2>
  
+ <img  src="Captures/13.PNG"  heigth="200" width="200">
+  <img  src="Captures/14.PNG"  heigth="200" width="200">
+ 
 Type your favourite text editor:
 ```
 <input type="text" list="text_editors">
@@ -258,9 +273,9 @@ Type your favourite text editor:
 
 <h2>Trick # 12 : HIDE FIELD</h2>
 
+  <img  src="Captures/15.PNG"  heigth="300" width="300">
 
 Here's how it works:
-
 
 ```
     <form name="contact" action="http://www.mydomain.com/myformhandler.cgi" method="POST">
@@ -279,6 +294,8 @@ Here's how it works:
 ```
 
 <h2>Trick # 13 : Insert math equations</h2>
+
+  <img  src="Captures/16.PNG"  heigth="400" width="400">
 
 This code will insert a fraction 'a/b' to your page:
 ```
