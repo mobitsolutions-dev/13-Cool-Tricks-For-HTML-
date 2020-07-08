@@ -3,6 +3,9 @@
 <h2>Trick # 1 : TABLEIZER</h2>
 
 * First select Excel spreadsheet 
+
+<img src="captures/1.png" >
+
 * And past in this site and then see the result:
        
  https://tableizer.journalistopia.com/
